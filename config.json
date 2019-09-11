@@ -1,0 +1,8 @@
+{
+  "style": {
+    "title": "Display Style",
+    "type": "select",
+    "options": ["Catalogs", "Channels"],
+    "default": "Catalogs"
+  }
+}
